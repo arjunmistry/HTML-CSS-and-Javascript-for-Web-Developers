@@ -1,0 +1,39 @@
+/****************HEADER STARTS****************/
+
+
+div .navbar-brand{
+	color: black !important;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+#collapsable-nav{
+	text-align: center;
+	font-size: 1.2em;
+}
+
+#nav-list a:hover{
+	background-color: green;
+	color: white;
+}
+
+
+/****************HEADER ENDS****************/
+
+
+/****************BODY STARTS****************/
+
+
+.head{
+	font-size: 2em;
+	font-weight: bold;
+}
+#tall-section{
+	background-color: cyan;
+	height: 1000px;
+	margin: 10px auto 20px;
+	font-size: 2em;
+	padding-top: 20px;
+}
+
+
+/****************BODY ENDS****************/
