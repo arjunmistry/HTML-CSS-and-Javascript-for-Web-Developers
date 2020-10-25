@@ -1,2 +1,2 @@
-# coursera
-This is a coursera page
+# HTML,CSS and Javascript for Web Developers
+Coursera course offered by John Hopkins university
